@@ -19,10 +19,6 @@ SOFTWARE.
  */
 package com.github.e2point718;
 
-/**
- * Hello world!
- *
- */
 public class Cobweb {
 	
 	public static void main(String[] args) throws Exception {
